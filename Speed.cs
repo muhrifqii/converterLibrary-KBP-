@@ -148,21 +148,21 @@ namespace Konverter
         #endregion
         
         #region static version
-        /// <summary>
-        /// Kalkulasi kecepatan
-        /// </summary>
-        /// <param name="length">panjang atau jarak</param>
-        /// <param name="time">waktu yang dilalui</param>
-        /// <returns>Velocity</returns>
-        public static Speed Calculate(Length length, Time time)
-        {
-            Length tmpL = length;
-            Time tmpT = time;
-            tmpL.ConvertTo(Length.ListSatuan.meter);
-            tmpT.ConvertTo(Time.ListSatuan.Seconds);
+        ///// <summary>
+        ///// Kalkulasi kecepatan
+        ///// </summary>
+        ///// <param name="length">panjang atau jarak</param>
+        ///// <param name="time">waktu yang dilalui</param>
+        ///// <returns>Velocity</returns>
+        //public static Speed Calculate(Length length, Time time)
+        //{
+        //    Length tmpL = length;
+        //    Time tmpT = time;
+        //    tmpL.ConvertTo(Length.ListSatuan.meter);
+        //    tmpT.ConvertTo(Time.ListSatuan.Seconds);
 
-            return new Speed(tmpL.Value / tmpT.Value);
-        }
+        //    return new Speed(tmpL.Value / tmpT.Value);
+        //}
 
         //buat perpangkatan
         private static double pangkat(double power)
