@@ -1,0 +1,5 @@
+D:\Kuliah\file latihan c#\coba\latihan\kbp\Konverter\bin\Release\Konverter.dll
+D:\Kuliah\file latihan c#\coba\latihan\kbp\Konverter\bin\Release\Konverter.pdb
+D:\Kuliah\file latihan c#\coba\latihan\kbp\Konverter\obj\Release\Konverter.dll
+D:\Kuliah\file latihan c#\coba\latihan\kbp\Konverter\obj\Release\Konverter.pdb
+D:\Kuliah\file latihan c#\coba\latihan\kbp\Konverter\obj\Release\Konverter.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Kuliah\file latihan c#\coba\latihan\kbp\FormApplication\bin\Release\FormApplication.exe.config
+D:\Kuliah\file latihan c#\coba\latihan\kbp\FormApplication\bin\Release\FormApplication.exe
+D:\Kuliah\file latihan c#\coba\latihan\kbp\FormApplication\bin\Release\FormApplication.pdb
+D:\Kuliah\file latihan c#\coba\latihan\kbp\FormApplication\obj\Release\FormApplication.csprojResolveAssemblyReference.cache
+D:\Kuliah\file latihan c#\coba\latihan\kbp\FormApplication\obj\Release\FormApplication.Properties.Resources.resources
+D:\Kuliah\file latihan c#\coba\latihan\kbp\FormApplication\obj\Release\FormApplication.csproj.GenerateResource.Cache
+D:\Kuliah\file latihan c#\coba\latihan\kbp\FormApplication\obj\Release\FormApplication.exe
+D:\Kuliah\file latihan c#\coba\latihan\kbp\FormApplication\obj\Release\FormApplication.pdb
+D:\Kuliah\file latihan c#\coba\latihan\kbp\FormApplication\obj\Release\FormApplication.Form1.resources
+D:\Kuliah\file latihan c#\coba\latihan\kbp\FormApplication\bin\Release\Konverter.dll
+D:\Kuliah\file latihan c#\coba\latihan\kbp\FormApplication\bin\Release\Konverter.pdb

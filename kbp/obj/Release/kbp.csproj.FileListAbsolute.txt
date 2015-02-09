@@ -1,0 +1,8 @@
+D:\Kuliah\file latihan c#\coba\latihan\kbp\kbp\bin\Release\kbp.exe.config
+D:\Kuliah\file latihan c#\coba\latihan\kbp\kbp\obj\Release\kbp.csprojResolveAssemblyReference.cache
+D:\Kuliah\file latihan c#\coba\latihan\kbp\kbp\bin\Release\kbp.exe
+D:\Kuliah\file latihan c#\coba\latihan\kbp\kbp\bin\Release\kbp.pdb
+D:\Kuliah\file latihan c#\coba\latihan\kbp\kbp\obj\Release\kbp.exe
+D:\Kuliah\file latihan c#\coba\latihan\kbp\kbp\obj\Release\kbp.pdb
+D:\Kuliah\file latihan c#\coba\latihan\kbp\kbp\bin\Release\Konverter.dll
+D:\Kuliah\file latihan c#\coba\latihan\kbp\kbp\bin\Release\Konverter.pdb

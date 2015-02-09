@@ -1,0 +1,6 @@
+D:\Kuliah\file latihan c#\coba\latihan\kbp\kbp\bin\Debug\kbp.exe.config
+D:\Kuliah\file latihan c#\coba\latihan\kbp\kbp\bin\Debug\kbp.exe
+D:\Kuliah\file latihan c#\coba\latihan\kbp\kbp\bin\Debug\kbp.pdb
+D:\Kuliah\file latihan c#\coba\latihan\kbp\kbp\obj\Debug\kbp.csprojResolveAssemblyReference.cache
+D:\Kuliah\file latihan c#\coba\latihan\kbp\kbp\obj\Debug\kbp.exe
+D:\Kuliah\file latihan c#\coba\latihan\kbp\kbp\obj\Debug\kbp.pdb
